@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200">
+  <!-- Black Square -->
+  <rect width="30%" height="100%" fill="black" />
+
+  <!-- Yellow Circles with Stroke -->
+  <circle cx="15%" cy="50%" r="70" fill="none" stroke="yellow" stroke-width="2" />
+  <circle cx="15%" cy="50%" r="90" fill="none" stroke="yellow" stroke-width="2" />
+
+  <!-- Text "HGE" in Times New Roman, Yellow Font Color -->
+  <text x="15%" y="50%" font-family="Times New Roman" font-size="55" fill="yellow" text-anchor="middle" alignment-baseline="middle">HGE</text>
+
+  <!-- Additional Text to the Right -->
+  <text x="35%" y="50%" font-family="Roboto" font-size="40" fill="Black" dominant-baseline="middle">HOCH Global Engineering</text>
+</svg>
